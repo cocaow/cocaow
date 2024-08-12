@@ -4,8 +4,8 @@ class AboutMe extends Trainee {
   nome = "Nicolas Cipriano Silva de Oliveira";
   search = "I am looking for an internship opportunity to develop myself";
   semester = 5;
-  faculdade = "Universidade Federal de Pelotas";
-  local = "Pelotas, RS, Brasil";
+  University = "Universidade Federal de Pelotas";
+  Live = "Pelotas, RS, Brasil";
 }
 class Skills extends Trainee {
   knowledge = ["Python", 
