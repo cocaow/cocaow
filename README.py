@@ -1,26 +1,20 @@
-import Trainee from "NicolasCipriano";
+# Olá!
 
-class AboutMe extends Trainee {
-  nome = "Nicolas Cipriano Silva de Oliveira";
-  search = "I am looking for an internship opportunity to develop myself";
-  semester = 5;
-  University = "Universidade Federal de Pelotas";
-  Live = "Pelotas, RS, Brasil";
-}
-class Skills extends Trainee {
-  knowledge = ["Python", 
-               "C", 
-               "English"];
-  Studing = ["SQL", 
-             "Java"];
-  softskills = ["proactivity",
-               "resilience",
-               "team work",
-               "communicative", 
-               "adaptability"];
-}
-class Contact extends Trainee {
-  Number_WhatsApp = "+5512983033976";
-  LinkedIn = "http://www.linkedin.com/in/nicolascipriano68";
-  Email = "ncsdoliveira@inf.ufpel.edu.br";
-}
+Meu nome é Nicolas Cipriano Silva de Oliveira, sou um estudante de Engenharia da Computação na UFPel, atualmente no 5° semestre. Também sou um entusiasta do **Desenvolvimento Full-Stack**, pois é por meio dele que consigo me expressar criativamente através de algo que eu adoro (e estudo), a tecnologia.
+
+### 💻 Tech Stack
+
+- **Linguagens:** Python, Java, Ruby
+- **Frameworks & Libraries:** Ruby on Rails
+- **Bancos de Dados:** PostgreSQL
+- **Outras Ferramentas:** Docker, Postman
+- **Em estudo:** HTML, CSS, JavaScript
+- **Idiomas:** Inglês Avançado
+
+### 🌐 Redes Sociais
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolascipriano68/)
+
+### 📊 GitHub Stats
+
+![Nicolas Cipriano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NCipri&show_icons=true&theme=dark)
