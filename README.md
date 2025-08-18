@@ -15,7 +15,4 @@ Meu nome é Nicolas Cipriano S Oliveira, sou um estudante de Engenharia da Compu
 ### 🌐 Redes Sociais
 
 [LinkedIn](https://www.linkedin.com/in/nicolascipriano68/)
-
-### 📊 GitHub Stats
-
-![Nicolas Cipriano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NCipri&show_icons=true&theme=dark)
+[Instagram] (https://www.instagram.com/cocaow/)
